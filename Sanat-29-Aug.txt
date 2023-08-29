@@ -1,0 +1,23 @@
+What is Data?
+Data is information
+
+What is Database?
+a collection of pieces of information that is organized and used on a computer
+
+ER Diagram
+a graphical representation of entities and their relationships to each other in a database.
+
+Normalization
+Database Normalization is a stepwise formal process that allows us to decompose database tables in such a way that both data dependency and update anomalies are minimized.
+
+Denormalization
+Denormalization is a database optimization technique in which we add redundant data to one or more tables.
+
+Case study on ER diagram
+
+Case study on Normalization
+
+Dimension modelling
+Techniques used in databases and data warehouses to orgainze and categorize facts into dimension tables
+
+Slowly Changing Dimension
