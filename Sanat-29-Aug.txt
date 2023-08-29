@@ -21,3 +21,4 @@ Dimension modelling
 Techniques used in databases and data warehouses to orgainze and categorize facts into dimension tables
 
 Slowly Changing Dimension
+Slowly Changing Dimensions in Data Warehouse is an important concept that is used to enable the historic aspect of data in an analytical system.
