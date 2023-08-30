@@ -8,128 +8,56 @@ Parallel Processing and Distributive Computing
 Hadoop used for Batch Processing & PySpark used for Stream Processing.
 Structured, Semi-Structured and Unstructured Data
 Data Warehouse -
-Save data as object
-Tables
-Views
-Structured data (Fixed Schema-data allocated even if value is null)
-Dimension Modelling
-ACID Property in DBMS -
-Atomicity
-Consistency
-Isolation
-Durability
+	Save data as object
+		Tables
+		Views
+	Structured data (Fixed Schema-data allocated even if value is null)
+	Dimension Modelling
+	ACID Property in DBMS -
+		Atomicity
+		Consistency
+		Isolation
+		Durability
+
 Datalake -
-Saves all types of data (Structured, Semi-Structured and Unstructured)
-Flexible Schema (No data allocated for null values)
-No ACID properties
-Data Lakehouse
-Combination of Data warehouse and Datalake.
-Took advantages of both Data warehouse and Datalake.
-Difference :
+	Saves all types of data (Structured, Semi-Structured and Unstructured)
+	Flexible Schema (No data allocated for null values)
+	No ACID properties
 
- 
-
-	
-
-Data Warehouse
-
-	
-
-Data Lake
-
-	
-
-Data Lakehouse
-
-
-
-
-Storage Data Type
-
-	
-
-Works well with structured data
-
-	
-
-Works well with semi-structured and unstructured data
-
-	
-
-Can handle structured, semi-structured, and unstructured data
-
-
-
-
-Purpose
-
-	
-
-Optimal for data analytics and business intelligence (BI) use-cases
-
-	
-
-Suitable for machine learning (ML) and artificial intelligence (AI) workloads
-
-	
-
-Suitable for both data analytics and machine learning workloads
-
-
-
-
-Cost
-
-	
-
-Storage is costly and time-consuming
-
-	
-
-Storage is cost-effective, fast, and flexible
-
-	
-
-Storage is cost-effective, fast, and flexible
-
-
-
-
-ACID Compliance
-
-	
-
-Records data in an ACID-compliant manner to ensure the highest levels of integrity
-
-	
-
-Non-ACID compliance: updates and deletes are complex operations
-
-	
-
-ACID-compliant to ensure consistency as multiple parties concurrently read or write data
-
- 
+Data Lakehouse -
+	Combination of Data warehouse and Datalake.
+	Took advantages of both Data warehouse and Datalake.
 
 Creating a VM using Microsoft Azure.
 What is Cloud Computing.
 Types of Cloud -
-Public Cloud
-Private Cloud
-Hybrid Cloud
+	Public Cloud
+	Private Cloud
+	Hybrid Cloud
 Cloud Benefits -
-High availability
-Scalability
-Agility
-Fault tolerance
-Elasticity
-Security
-Disaster Recovery
-Customer Latency capabilities
+	High availability
+	Scalability
+	Agility
+	Fault tolerance
+	Elasticity
+	Security
+	Disaster Recovery
+	Customer Latency capabilities
 Compare CapEx(Capital Expenditure) vs OpEx(Operational Expenditure) -
-Cloud is OpEx.
+	Cloud is OpEx.
 Infrastructure as a Service(IaaS)
 Platform as a Service(PaaS)
 Software as a Service(SaaS)
 Shared Responsibility Model
 Serverless Computing
+Azure Architecture
+	Regions
+	Region Pairs
+	Availability Zones
+Azure Resources
+Azure Subscriptions -
+	Billing Boundary
+	Access control Boundary
+Azure Resource Manager
+Resource Groups
+Subscriptions -> Resource Groups
