@@ -1,0 +1,25 @@
+	1. Create a database and elastic pool.
+	
+	2. JOINS:
+		a. Inner Join
+		b. Left Join
+		c. Right Join
+		d. Self Join
+		e. Outer Join
+		f. Cross Join
+	
+	3. Stored Procedure 
+	4. Views
+	5. Functions
+		a. Scaler
+		b. Table Valued
+	6. Complex codes -> Stored Procedures
+	7. Simple code -> Views
+	8. Temporary Table: # before table name creates a temporary table (i.e. no physical table created). It drops automatically.
+	9. Sub-Queries
+	10. UNION and UNION ALL
+	11. Intersection
+	12. Index
+		a. Clustered Index
+		b. Non-Clustered Index
+		c. Column Stored Index
