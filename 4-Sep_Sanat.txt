@@ -1,0 +1,27 @@
+	1. Create a resource -> Azure storage Account
+	2. Resource Group
+	3. Storage Account
+	4. Storage Services
+	5. Redundancy
+		a. Local redundancy
+		b. Zone redundancy
+		c. Geo redundancy
+		d. Geo zone redundancy
+	6. RAGRS (Read Access Geo Redundant Storage)
+		a. Failover
+		b. Synchronous replication
+	7. Security
+	8. Access protocols
+	9. Access tiers
+		a. Hot
+		b. Cold
+		c. Cool
+		d. Archive Access
+	9. Purging & Archiving
+	10. Containers - Folder for storing files
+	11. Azure Tables
+	12. Azure Queues
+	13. File Shares
+	14. Snapshots
+	15. Ingress & Egress
+	16. Static Website
